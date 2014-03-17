@@ -1,0 +1,8 @@
+name: OITQ
+version: 1.3
+main: me.Ad237.oitc.OITQ
+author: Ad237
+description: One in the Quiver!
+commands:
+   oitq:
+      description: One in the Quiver management command.
